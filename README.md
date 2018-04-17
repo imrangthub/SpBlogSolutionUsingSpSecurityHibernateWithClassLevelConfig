@@ -1,0 +1,2 @@
+# SpBlogSolutionUsingSpSecurityHibernateWithClassLevelConfig
+SpBlogSolutionUsingSpSecurityHibernateWithClassLevelConfig
